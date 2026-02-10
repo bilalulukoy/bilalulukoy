@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Bilal ulukoy</h1>
 <h3 align="center">A backend developer and data science enthusiast from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalulukoy&label=Profile%20views&color=0e75b6&style=flat" alt="bilalulukoy" /> </p>
+
 
 - 🌱 I’m currently learning **FastAPI/Django**
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalulukoy&show_icons=true&locale=en" alt="bilalulukoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalulukoy&" alt="bilalulukoy" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalulukoy&label=Profile%20views&color=0e75b6&style=flat" alt="bilalulukoy" /> </p>
