@@ -1,28 +1,33 @@
+## Bilal Uluköy
+**Backend Developer — C# / .NET**
 
+Backend developer specializing in enterprise workflow systems, ERP integrations, telemetry pipelines, and RESTful API architecture using the .NET ecosystem. Experienced in building maintainable, data-intensive backend services at **Rubrec Yazılım Sanayi Ltd. Şti.**
 
+---
 
+### Core Stack
 
+* **Languages & Frameworks:** C#, .NET, ASP.NET Core, Entity Framework Core, LINQ
+* **Architecture & Integration:** RESTful APIs, Background Services, ERP & Field Device Integrations, Role-Based Auth
+* **Databases & Caching:** Microsoft SQL Server, PostgreSQL, Redis
+* **Infrastructure & Tooling:** Docker, Git, Azure, Linux / macOS
 
-<h1 align="center">Hi 👋, I'm Bilal ulukoy</h1>
-<h3 align="center">A backend developer and data science enthusiast from Türkiye</h3>
+---
 
+### Selected Engineering Work
 
+* **[ShipyardWorkOrderErp](https://github.com/bilalulukoy/ShipyardWorkOrderErp)** — *C# / .NET*  
+  Backend service for shipyard manufacturing operations, managing panel/block production tracking and ERP data synchronization.
 
-- 🌱 I’m currently learning **FastAPI/Django**
+* **Telemetry & Field Unit Configuration Services** — *C# / .NET* *(Private / Enterprise)*  
+  Real-time telemetry ingestion and remote configuration management modules built for industrial field units.
 
-- 📫 How to reach me **ulukoybilal9@gmail.com**
+* **Service Desk, Auth & Operational Automation** — *C# / .NET, SQL Server* *(Private / Enterprise)*  
+  Centralized authentication services, automated ticket routing workflows, and scheduled data synchronization pipelines.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bilalulukoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalulukoy" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### Contact
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalulukoy&show_icons=true&locale=en&layout=compact" alt="bilalulukoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalulukoy&show_icons=true&locale=en" alt="bilalulukoy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalulukoy&" alt="bilalulukoy" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalulukoy&label=Profile%20views&color=0e75b6&style=flat" alt="bilalulukoy" /> </p>
+* **LinkedIn:** [linkedin.com/in/bilal-ulukoy](https://www.linkedin.com/in/bilal-uluk%C3%B6y-bb0508287)
+* **Email:** [ulukoybilal9@gmail.com](mailto:ulukoybilal9@gmail.com)
